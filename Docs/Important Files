@@ -1,1 +1,5 @@
-
+https://academy.realm.io/posts/kau-jake-wharton-testing-robots/ - good link for understanding how they work.
+https://academy.realm.io/posts/kau-jake-wharton-testing-robots/ - video
+For general Android testing, this is a good reading: 
+https://github.com/mozilla-mobile/shared-docs/blob/master/android/testing.md#robot-pattern-ui-test-architectureandroid/testing.md
+The iOS Doc https://github.com/mozilla-mobile/firefox-ios/wiki/Writing-a-first-XCUI-test-from-the-scratch
