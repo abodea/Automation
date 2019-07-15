@@ -1,0 +1,20 @@
+import java.util.List;
+
+public class Building {
+    private List<Floor> floors;
+
+    public Building() {
+    }
+
+    public List<Floor> getFloors() {
+        return this.floors;
+    }
+
+    public void setFloors(List<Floor> floors) {
+        this.floors = floors;
+    }
+
+    public String toString() {
+        return "Building has " + this.getFloors().size() + " floors.";
+    }
+}
